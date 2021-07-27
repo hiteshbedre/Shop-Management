@@ -9,7 +9,7 @@ A simple java project. Where implements Java OOP with MVC design pattern .In thi
 What things you need to install the application.
 - [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK 8")
 - [Eclipse Mars](http://www.eclipse.org/mars/ "Eclipse Mars")
-- MySQL Server - [XAMPP](https://www.apachefriends.org/download.html "XAMPP") / [WAMP](http://www.wampserver.com/en/ "WAMP") / [Laragon](https://laragon.org/download/index.html "Laragon")
+- MySQL Server - [XAMPP](https://www.apachefriends.org/download.html "XAMPP") / [WAMP](http://www.wampserver.com/en/ "WAMP") / [Laragon](https://laragon.org/download/index.html "wLaragon")
 
 ### Getting Started
 
